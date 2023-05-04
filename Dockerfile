@@ -1,4 +1,4 @@
-# Use Google base image for NodeJS
+# Use Google base image for NodeJS-abc
 FROM launcher.gcr.io/google/nodejs
 
 # Copy application code.
